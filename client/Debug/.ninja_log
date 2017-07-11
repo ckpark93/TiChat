@@ -1,0 +1,16 @@
+# ninja log v5
+15	4637	0	src/tichat.o	ba2de94ac92b95fe
+12	4634	0	src/room.o	1aed30398c08fbfa
+8	4621	0	src/signup.o	339fe14ea0005b6e
+4637	6076	0	tichat	bd006c8ad525a50e
+16	1523	0	res/app_view.edj	59808dc0b8ff8d80
+19	787	0	inc/cJSON.o	45dc61314c229057
+13	1417	0	src/post.o	b2faa8618f637161
+12	945	0	src/signup.o	339fe14ea0005b6e
+8	988	0	src/tichat.o	ba2de94ac92b95fe
+988	1448	0	tichat	bd006c8ad525a50e
+20	468	0	inc/cJSON.o	617d31f04536a1bd
+13	1231	0	src/signup.o	d702b8eb91052a99
+9	1277	0	src/tichat.o	c99d347b04f64b84
+16	1294	0	src/room.o	9daad5ffceb8bdbb
+1294	1793	0	tichat	5624bc79e6224806

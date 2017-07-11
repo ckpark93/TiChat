@@ -1,0 +1,9 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+
+edctool = edje_cc
+edcflags = -id "C:\Users\pck37\workspace\TiChat/edje/images" -id "C:/tizen-studio/tools/edc-editor/share/enventor/images" -sd "C:\Users\pck37\workspace\TiChat/edje/sounds" -sd "C:/tizen-studio/tools/edc-editor/share/enventor/sounds" -fd "C:\Users\pck37\workspace\TiChat/edje/fonts" -fd "C:/tizen-studio/tools/edc-editor/share/enventor/fonts"
+
+build res/app_view.edj: build_edc ../res/app_view.edc 
